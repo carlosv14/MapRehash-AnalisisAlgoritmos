@@ -1,0 +1,1 @@
+Es casi constante porque en la situacion ideal con una buena funcion de hash no importa el tamaño del arreglo el tiempo que le toma ver si un elemento existe es el mismo. En el ejemplo hay varios elementos y sin importat cuantos hayan el tiempo que tarda en encontrar zorra es el mismo ya que la funcion hash no depende de la cantidad de elementos.
