@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1485740223 source:c:\users\carlos varela\downloads\maprehashstructuretest-master\maprehashstructuretest-master\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+
+1485374182 c:\users\carlos varela\downloads\maprehashstructuretest-master\maprehashstructuretest-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485740960 source:c:\users\carlos varela\downloads\maprehashstructuretest-master\maprehashstructuretest-master\test.cpp
+	"Test.h"
+	"Map.h"
+
+1485740704 c:\users\carlos varela\downloads\maprehashstructuretest-master\maprehashstructuretest-master\map.h
+	<iostream>
+	<map>
+	<vector>
+
+1485740990 source:c:\users\carlos varela\downloads\maprehashstructuretest-master\maprehashstructuretest-master\map.cpp
+	"Map.h"
+
